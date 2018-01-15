@@ -9,7 +9,7 @@ Copyright (c) 2015 Moodcoin Developers
 
 What is Moodcoin?
 ----------------
-X13
+X15
 PoS Minimum - 24 Hours
 PoS Maximum - Unlimited
 PoS Interest - 5% Annually 
