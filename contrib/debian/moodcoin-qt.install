@@ -1,0 +1,5 @@
+moodcoin-qt usr/bin
+share/pixmaps/moodcoin32.xpm usr/share/pixmaps
+share/pixmaps/moodcoin80.xpm usr/share/pixmaps
+debian/moodcoin-qt.desktop usr/share/applications
+debian/moodcoin-qt.protocol usr/share/kde4/services/

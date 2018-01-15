@@ -1,0 +1,2 @@
+debian/bin/moodcoind usr/bin
+src/moodcoind usr/lib/moodcoin
